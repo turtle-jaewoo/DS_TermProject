@@ -1,5 +1,3 @@
-# This is for test branch and merging by using pull request
-
 
 import numpy as np
 import matplotlib.pyplot as plt
